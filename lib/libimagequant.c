@@ -19,6 +19,7 @@
 #include <stdarg.h>
 #include <stdbool.h>
 #include <limits.h>
+#include <stdint.h>
 
 #if !defined(__STDC_VERSION__) || __STDC_VERSION__ < 199900L
 #error "This program requires C99, e.g. -std=c99 switch in GCC. MSVC doesn't support C newer than '89, please use MinGW on Windows."
